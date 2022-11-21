@@ -8,4 +8,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 -- Este es el archivo README.md que se muestra originalmente --
 
-Here is the app: 
+Here is the app: https://samricodev.github.io/VueExample/
